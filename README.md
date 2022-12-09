@@ -10,9 +10,17 @@ This is my journey on my 🏃‍♂️ <a href="https://github.com/francejules22
 
 
 - 👀 I’m interested in creating web application, UI design, analytics and tech support...
-- 🌱 I’m currently learning Javascript with react framework ...
 - 💞️ I’m looking to collaborate on other people who wants to improve there learnings and willing to learn ...
-- 📫 How to reach me francisjulescelesteespartero@gmail.com ...
+- 🌱 Technology and Tools I used...
+ * ```HTML5, CSS3, JavaScript, Reactjs, mySQL, Figma```
+- 📫 How to reach me...
+  * <a href="francisjulescelesteespartero@gmail.com">Gmail</a>
+  
+  * <a href="https://www.linkedin.com/in/francis-jules-espartero-b81687226/">LinkedIn</a>
+  
+  * <a href="https://www.facebook.com/francisjules.celeste">Facebook</a>
+  
+
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
