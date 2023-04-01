@@ -16,7 +16,7 @@ This is my journey on my 🏃‍♂️ <a href="https://github.com/francejules22
 - 💞️ I’m looking to collaborate on other people who wants to improve there learnings and willing to learn ...
 - 🌱 Technology and Tools I used...
 
- * ```HTML5, CSS3, JavaScript, Reactjs, Figma, mySQL```
+ * ```HTML5, CSS3, JavaScript, Reactjs, Figma, mySQL, PHP```
  
  ![tools](https://user-images.githubusercontent.com/80078725/206828974-c26c840f-4ffd-4fa1-945b-1e4447c2887d.png)
 
