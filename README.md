@@ -4,7 +4,9 @@ https://francejules22.github.io/FrancejulesPortfolio
 Hi, there👋
 
 
-Hi, I'm <a href="https://www.facebook.com/francisjules.celeste">Francis Jules Espartero</a> studied in ISAT U (Iloilo Science and Technology University) taking Computer Science Degree,and a passionate self-taught web developer.My passion for software lies with dreaming up ideas and making them come true with unique interfaces.I learn a lot from the open-source community and technology gives me numbling sensation of excitement to create a better solutions and innovations.
+Hi, I'm <a href="https://www.facebook.com/francisjules.celeste">Francis Jules Espartero</a> studied in ISAT U (Iloilo Science and Technology University), and a passionate self-taught web developer. I have strong foundation in HTML5, CSS3, Javascript, JQuery, Bootstrap, AJAX, PHP, MySQL and basic knowledge in ReactJS libraries for building user interfaces and .I am also skilled in developing and maintaining web applications including designing, integrating APIs, implementing database structures, testing and debugging code. I am thrill and excited to bring my Full Stack Development skills to new project and help bring them to successful completion.
+
+I am also a motivated and skilled individual seeking new opportunities in IT Support. Through completion of the Google IT Support Professional Certificate, I developed skills in customer service, networking operating system (including Windows & Linux), system administration and security. My training included hands-on practice in these areas. I'm passionate about continuously learning in the IT field and supporting people to solve their technical problems.
 
 
 This is my journey on my 🏃‍♂️ <a href="https://github.com/francejules22?tab=repositories">GitHub Profile</a>. Outside <a href="https://github.com/francejules22/francejules22/edit/main/README.md">Github</a>, I am open-source enthusiast, determination and i love watching anime in my free time. You can find me in <a href="https://www.linkedin.com/in/francis-jules-espartero-b81687226/">LinkedIn</a>.
